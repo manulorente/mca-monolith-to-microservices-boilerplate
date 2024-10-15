@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "2608b8db-06c6-4dd9-bfce-9b3aa7ab4cc4",
-		"name": "Practice 3 - Books (Monolith into Microservices)",
+		"name": "Testing Books (Monolith into Microservices)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "24772546"
 	},
